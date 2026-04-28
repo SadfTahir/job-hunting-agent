@@ -1,0 +1,6 @@
+application_id,company,role,source,status,applied_date,interview_date,follow_up_date,next_action,notes
+APP-001,Systems Limited,AI ML Engineer Intern,LinkedIn,Interview Scheduled,2026-04-20,2026-05-03,2026-05-06,Revise ML concepts and prepare project explanation,Resume tailored for Python and ML role
+APP-002,Arbisoft,Junior Python Developer Intern,Rozee.pk,Applied,2026-04-22,,2026-05-01,Follow up if no response by May 1,Applied with original resume need to tailor
+APP-003,10Pearls,AI Intern,LinkedIn,Not Applied,,,,"Tailor resume highlight OOP and Flask then apply",Strong OOP and Flask requirement
+APP-004,Netsol Technologies,Data Analyst Intern,Company Website,Shortlisted,2026-04-18,2026-05-05,2026-05-08,Prepare SQL queries and Excel dashboard explanation,HR contacted via email
+APP-005,Techlogix,Python Backend Intern,WhatsApp,Rejected,2026-04-10,,,Look for similar roles at other companies,Rejected due to no Django experience
